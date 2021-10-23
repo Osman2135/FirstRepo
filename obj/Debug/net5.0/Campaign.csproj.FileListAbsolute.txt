@@ -1,0 +1,16 @@
+C:\Users\Osman\source\repos\Campaign\bin\Debug\net5.0\Campaign.exe
+C:\Users\Osman\source\repos\Campaign\bin\Debug\net5.0\Campaign.deps.json
+C:\Users\Osman\source\repos\Campaign\bin\Debug\net5.0\Campaign.runtimeconfig.json
+C:\Users\Osman\source\repos\Campaign\bin\Debug\net5.0\Campaign.runtimeconfig.dev.json
+C:\Users\Osman\source\repos\Campaign\bin\Debug\net5.0\Campaign.dll
+C:\Users\Osman\source\repos\Campaign\bin\Debug\net5.0\ref\Campaign.dll
+C:\Users\Osman\source\repos\Campaign\bin\Debug\net5.0\Campaign.pdb
+C:\Users\Osman\source\repos\Campaign\obj\Debug\net5.0\Campaign.csproj.AssemblyReference.cache
+C:\Users\Osman\source\repos\Campaign\obj\Debug\net5.0\Campaign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Osman\source\repos\Campaign\obj\Debug\net5.0\Campaign.AssemblyInfoInputs.cache
+C:\Users\Osman\source\repos\Campaign\obj\Debug\net5.0\Campaign.AssemblyInfo.cs
+C:\Users\Osman\source\repos\Campaign\obj\Debug\net5.0\Campaign.csproj.CoreCompileInputs.cache
+C:\Users\Osman\source\repos\Campaign\obj\Debug\net5.0\Campaign.dll
+C:\Users\Osman\source\repos\Campaign\obj\Debug\net5.0\ref\Campaign.dll
+C:\Users\Osman\source\repos\Campaign\obj\Debug\net5.0\Campaign.pdb
+C:\Users\Osman\source\repos\Campaign\obj\Debug\net5.0\Campaign.genruntimeconfig.cache
